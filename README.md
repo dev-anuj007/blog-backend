@@ -1,2 +1,7 @@
 # blog-backend
-Speacially designed to kickstart any new front-end framework learning
+
+Specifically designed to kickstart any new front-end framework learning
+
+## Setup Guid
+
+**pipenv** : https://realpython.com/pipenv-guide/
